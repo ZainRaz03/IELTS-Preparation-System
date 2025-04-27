@@ -28,7 +28,7 @@ Follow these steps to get the system up and running locally:
 
 1. Clone the repository:
   
-   git clone https://github.com/ZainRaz04/IELTS-Preparation-System.git
+   git clone https://github.com/ZainRaz03/IELTS-Preparation-System.git
    
 2. Navigate to the project directory:
    
